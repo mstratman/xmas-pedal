@@ -1,0 +1,23 @@
+Quantity,Name,Designator,Note,Supplier,Supplier SKU
+16,3mm,,"15 Assorted LEDs for tree, 1 for Audio indicator",,
+1,5mm,,5mm yellow LED for star,,
+0-1,100K,VR (option 1),100k Trim.,Tayda,A-2506
+0-1,100K,VR (option 2),A100k 9mm pot,Tayda,A-1873 or A-1855
+6,2N3904,"Q1,Q2,Q3,Q4,Q5,Q6",2N3904,Tayda,A-111
+1,Light switch,SW1,,Tayda,A-5102
+1,100n,C1,,Tayda,A-951
+1,0.47u,C2,Electrolytic,Tayda,A-1071
+2,1u,"C3,C4",Electrolytic,Tayda,A-957
+1,ATtiny13-20PU,U1,"Pre-programmed, included with PCB",included,
+1,78L05,U2,TO-92,Tayda,A-176
+5,8.2k,"R1,R2,R3,R4,R5",,Tayda,A-3793
+5,1k,"R6,R7,R8,R9,R10",,Tayda,A-3772
+1,470k,R11,,Tayda,A-3844
+1,100k,R12,,Tayda,A-3825
+1,10k,R13,,Tayda,A-3795
+1,150R,R14,,Tayda,A-3751
+2,4.7k,"R15, R16",,Tayda,A-3787
+1,9V Battery Cable,B1,9V BATERRY CABLE CONNECTOR,Tayda,A-656
+1,8 pin DIP socket,,Optional. For U1,Tayda,A-001
+2,Audio jack,,,Tayda,A-1122
+,Wire,,For battery strap and to hang on tree. Approximately 20cm,Tayda,
